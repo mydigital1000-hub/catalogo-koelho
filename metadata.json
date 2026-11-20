@@ -1,0 +1,6 @@
+{
+  "name": "Koelho Mobilidade Elétrica",
+  "description": "Catálogo digital de scooters elétricas, triciclos elétricos, peças de reposição e manutenção especializada em Franca - SP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
